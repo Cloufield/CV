@@ -1,7 +1,5 @@
-site_name: "Yunye He (賀　云野)"
+site_name: "Yunye He (贺 云野)"
 site_author: HE Yunye
-repo_name: 'GitHub'
-repo_url: https://github.com/Cloufield/CV/
 edit_uri: ""
 copyright: ""
 theme:
@@ -12,8 +10,8 @@ theme:
     code: Roboto Mono
     text: Roboto
   palette:
-    primary: blue
-    accent: blue
+    primary: white
+    accent: white
   logo: assets/gwaslab.png
   favicon: assets/gwaslab.png
 

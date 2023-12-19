@@ -1,26 +1,29 @@
-# 
-
-
-
-## Yunye **He**  (賀　云野)
+#
+## Yunye **He**  (贺　云野)
 
 <div class="grid" markdown>
 
 
-I am a postdoctoral fellow at the Laboratory of Complex Trait Genomics, The University of Tokyo. My research focuses on genetic analyses of complex traits and diseases. <br/><br/> Specifically, I study the genetic architecture of **gastrointestinal diseases** like peptic ulcer disease, and **cerebrovascular diseases** such as stroke. <br/><br/> Research keywords: Complex trait genomics, Statistical Genetics, GWAS, Gastrointestinal diseases, Cerebrovascular diseases,  Proteomics
+I am a postdoctoral fellow at the [Laboratory of Complex Trait Genomics](https://sites.google.com/edu.k.u-tokyo.ac.jp/kamatanilab/), The University of Tokyo.  <br/><br/> My research focuses on genetic analyses of complex traits and diseases. Specifically, I study the genetic architecture of **gastrointestinal diseases** such as peptic ulcer disease, and **cerebrovascular diseases** such as stroke. <br/><br/> **Research keywords**: Complex trait genomics, Statistical Genetics, GWAS, Gastrointestinal diseases, Cerebrovascular diseases,  Proteomics
 
 
-![Image title](https://media.licdn.com/dms/image/D5603AQF0aQQEug6dTQ/profile-displayphoto-shrink_400_400/0/1702955537542?e=1708560000&v=beta&t=x-dN3CwMTocB0sfKpwrBpJo80GdZyvbgUUCQOoohArs){ align=left }
-
+![Image title](https://media.licdn.com/dms/image/D5603AQF0aQQEug6dTQ/profile-displayphoto-shrink_400_400/0/1702955537542?e=1708560000&v=beta&t=x-dN3CwMTocB0sfKpwrBpJo80GdZyvbgUUCQOoohArs){ align=right }
 
 </div>
 
+## Contact
+
+- Email: yunyehe.ctg\[at\]gmail.com 
+- X: @He_Yunye
+- [ORCID](https://orcid.org/0000-0001-8581-7826)
+- [Github Profile](https://github.com/Cloufield)
+
 ## Education
 
-- 2020 - 2023, Ph. D., Laboratory of Complex Trait Genomics, **The University of Tokyo**
-- 2018 - 2020, M. Sc., Laboratory of Clinical Genome Sequencing, **The University of Tokyo**
-- 2017 - 2018, Department of Microbiology, **The University of Tokyo**
-- 2012 - 2017, B. M., Basic Medical Sciences, **Peking University**
+- 2020 - 2023, Ph. D., Laboratory of Complex Trait Genomics, The University of Tokyo
+- 2018 - 2020, M. Sc., Laboratory of Clinical Genome Sequencing, The University of Tokyo
+- 2017 - 2018, Department of Microbiology, The University of Tokyo
+- 2012 - 2017, B. M., School of Basic Medical Sciences, Peking University Health Science Center
 
 ## Updates
 

@@ -1,8 +1,7 @@
 
 # Teaching
 
-
-## Course: Fundamental exercise II 
+## Course: Fundamental Exercise II 
 
 - 2021 - 2023
 - The University of Tokyo
@@ -11,8 +10,11 @@
 - Role: Teaching Assistant
 
 ## Blog: gwaslab
+
 - 2021 - Present
 - Sharing tutorials and tips about complex trait genomics. 
-- Blog: [https://gwaslab.org/](https://gwaslab.org/) 
-- Zhihu: [https://www.zhihu.com/people/gwaslab](https://www.zhihu.com/people/gwaslab)
-- Wechat: GWASLab
+- URLs:
+    - Blog: [https://gwaslab.org/](https://gwaslab.org/) 
+    - Zhihu: [https://www.zhihu.com/people/gwaslab](https://www.zhihu.com/people/gwaslab)
+    - Wechat: GWASLab
+- More than 1 million views for ~80 posts
