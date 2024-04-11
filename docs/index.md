@@ -6,8 +6,7 @@
 
 I am a postdoctoral fellow at the [Laboratory of Complex Trait Genomics](https://sites.google.com/edu.k.u-tokyo.ac.jp/kamatanilab/), The University of Tokyo.  <br/><br/> My research focuses on genetic analyses of complex traits and diseases. Specifically, I study the genetic architecture of **gastrointestinal diseases** such as peptic ulcer disease, and **cerebrovascular diseases** such as stroke. <br/><br/> **Research keywords**: Complex trait genomics, Statistical Genetics, GWAS, Gastrointestinal diseases, Cerebrovascular diseases,  Proteomics
 
-
-![Image title](https://media.licdn.com/dms/image/D5603AQF0aQQEug6dTQ/profile-displayphoto-shrink_400_400/0/1702955537542?e=1708560000&v=beta&t=x-dN3CwMTocB0sfKpwrBpJo80GdZyvbgUUCQOoohArs){ align=right }
+![Image title](https://avatars.githubusercontent.com/u/40289485?v=4){ align=right }
 
 </div>
 
