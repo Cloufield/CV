@@ -17,8 +17,9 @@ I am a postdoctoral fellow at the [Laboratory of Complex Trait Genomics](https:/
 - [ORCID](https://orcid.org/0000-0001-8581-7826)
 - [Github Profile](https://github.com/Cloufield)
 
-## Education
+## Education & Work Experience
 
+- 2023 - Present, Postdoctoral fellow, Laboratory of Complex Trait Genomics, The University of Tokyo
 - 2020 - 2023, Ph. D., Laboratory of Complex Trait Genomics, The University of Tokyo
 - 2018 - 2020, M. Sc., Laboratory of Clinical Genome Sequencing, The University of Tokyo
 - 2017 - 2018, Department of Microbiology, The University of Tokyo
