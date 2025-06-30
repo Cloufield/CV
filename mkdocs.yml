@@ -2,6 +2,8 @@ site_name: "Yunye He (贺 云野)"
 site_author: HE Yunye
 edit_uri: ""
 copyright: ""
+site_url: https://cloufield.github.io/CV/
+
 theme:
   theme:
     language: en
@@ -56,17 +58,20 @@ plugins:
       docs_structure: folder
       languages:
         - locale: en
+          link: /
           default: true
           name: English
           build: true
         - locale: zh
           name: 中文
           build: true
+          link: /zh/
           nav_translations:
               Home: 个人主页
               Publications: 科研成果
               Teaching: 教学
         - locale: ja
+          link: /ja/
           name: 日本語
           build: true
           site_name: 賀　云野（が　うんや）
