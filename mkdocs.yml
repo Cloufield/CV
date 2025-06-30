@@ -3,6 +3,8 @@ site_author: HE Yunye
 edit_uri: ""
 copyright: ""
 theme:
+  theme:
+    language: en
   name: material
   features:
     - navigation.tabs
@@ -39,6 +41,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -49,3 +52,24 @@ extra_javascript:
 plugins:
   - mkdocs-jupyter
   - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
+          nav_translations:
+              Home: 个人主页
+              Publications: 科研成果
+              Teaching: 教学
+        - locale: ja
+          name: 日本語
+          build: true
+          nav_translations:
+              Home: ホームページ
+              Publications: 研究業績
+              Teaching: 教育
