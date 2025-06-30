@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>None./</loc>
+        <loc>https://cloufield.github.io/CV/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="None"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/"/>
     </url>
     <url>
-        <loc>Nonepublications/</loc>
+        <loc>https://cloufield.github.io/CV/publications/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Nonepublications/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/publications/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/publications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/publications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/publications/"/>
     </url>
     <url>
-        <loc>Noneteaching/</loc>
+        <loc>https://cloufield.github.io/CV/teaching/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneteaching/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/teaching/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/teaching/"/>
     </url>
     <url>
-        <loc>Nonezh/</loc>
+        <loc>https://cloufield.github.io/CV/zh/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="None"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/"/>
     </url>
     <url>
-        <loc>Nonezh/publications/</loc>
+        <loc>https://cloufield.github.io/CV/zh/publications/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/publications/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Nonepublications/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/publications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/publications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/publications/"/>
     </url>
     <url>
-        <loc>Nonezh/teaching/</loc>
+        <loc>https://cloufield.github.io/CV/zh/teaching/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/teaching/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneteaching/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/teaching/"/>
     </url>
     <url>
-        <loc>Noneja/</loc>
+        <loc>https://cloufield.github.io/CV/ja/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="None"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/"/>
     </url>
     <url>
-        <loc>Noneja/publications/</loc>
+        <loc>https://cloufield.github.io/CV/ja/publications/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/publications/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Nonepublications/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/publications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/publications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/publications/"/>
     </url>
     <url>
-        <loc>Noneja/teaching/</loc>
+        <loc>https://cloufield.github.io/CV/ja/teaching/</loc>
         <lastmod>2025-06-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/teaching/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneteaching/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://cloufield.github.io/CV/ja/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cloufield.github.io/CV/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://cloufield.github.io/CV/zh/teaching/"/>
     </url>
 </urlset>
