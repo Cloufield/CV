@@ -69,6 +69,7 @@ plugins:
         - locale: ja
           name: 日本語
           build: true
+          site_name: 賀　云野（が　うんや）
           nav_translations:
               Home: ホームページ
               Publications: 研究業績
