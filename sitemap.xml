@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Nonepublications/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepublications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/publications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/publications/"/>
+    </url>
+    <url>
+        <loc>Noneteaching/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneteaching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/teaching/"/>
+    </url>
+    <url>
+        <loc>Nonezh/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+    </url>
+    <url>
+        <loc>Nonezh/publications/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepublications/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/publications/"/>
+    </url>
+    <url>
+        <loc>Nonezh/teaching/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneteaching/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/teaching/"/>
+    </url>
+    <url>
+        <loc>Noneja/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Noneja/publications/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepublications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/publications/"/>
+    </url>
+    <url>
+        <loc>Noneja/teaching/</loc>
+        <lastmod>2025-06-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="Noneja/teaching/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneteaching/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/teaching/"/>
+    </url>
 </urlset>
