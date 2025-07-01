@@ -14,7 +14,7 @@
 - 2021年 ～ 現在
 - 複雑形質ゲノミクスに関するチュートリアルや情報を発信
 - URL一覧：
-　- ブログ：https://gwaslab.org/
-　- 知乎：https://www.zhihu.com/people/gwaslab
-　- WeChat：GWASLab
+    - ブログ：https://gwaslab.org/
+    - Zhihu：https://www.zhihu.com/people/gwaslab
+    - WeChat：GWASLab
 - 約80本の記事で累計100万回以上の閲覧実績あり

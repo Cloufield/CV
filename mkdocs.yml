@@ -23,6 +23,7 @@ nav:
     - Home: index.md
     - Publications: publications.md
     - Teaching: teaching.md
+    - Projects: github.md
 
 
 markdown_extensions:
@@ -70,6 +71,7 @@ plugins:
               Home: 个人主页
               Publications: 科研成果
               Teaching: 教学
+              Projects: 项目
         - locale: ja
           link: /ja/
           name: 日本語
@@ -78,4 +80,5 @@ plugins:
           nav_translations:
               Home: ホームページ
               Publications: 研究業績
-              Teaching: 教育
+              Teaching: 教育活動
+              Projects: Githubプロジェクト
