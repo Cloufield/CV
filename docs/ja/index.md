@@ -16,19 +16,16 @@
 ## 連絡先
 
 - メール: yunyehe.ctg\[at\]gmail.com 
-- X: @He_Yunye
 - [ORCID](https://orcid.org/0000-0001-8581-7826)
 - [Github Profile](https://github.com/Cloufield)
 
 ## 学歴・職歴
-
-- 2023年～現在：特任研究員、東京大学 複雑形質ゲノミクス研究室
+- 2023年～現在：助教、東京大学 複雑形質ゲノミクス研究室
+- 2023年～2025年：特任研究員、東京大学 複雑形質ゲノミクス研究室
 - 2020年～2023年：博士課程、東京大学 複雑形質ゲノミクス研究室
-- 2018年～2020年：修士課程、東京大学 臨床ゲノムシーケンス研究室
-- 2017年～2018年：東京大学 微生物学教室
-- 2012年～2017年：学士課程、北京大学医学部 基礎医学院
 
 ## 最新情報
+- 2025年11月：東京大学複雑形質ゲノミクス研究室にて助教としての勤務を開始しました。
 
 - 2023年11月：He, Y., Koido, M., Sutoh, Y., Shi, M., Otsuka-Yamasaki, Y., Munter, H. M., ... & Kamatani, Y. (2023). East Asian-specific and cross-ancestry genome-wide meta-analyses provide mechanistic insights into peptic ulcer disease. Nature Genetics, 1-10. が Nature Genetics に掲載されました！
 
