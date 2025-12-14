@@ -1,20 +1,19 @@
 
 # Teaching
 
-## Course: Fundamental Exercise II 
+## Course: Basic Seminar II ([Basic Exercises](https://www.cbms.k.u-tokyo.ac.jp/en/curriculum/#basic-exercises))
 
-- 2021 - 2023
-- The University of Tokyo
-- Department of Computational Biology and Medical Sciences
-- Course website: [https://cloufield.github.io/GWASTutorial/](https://cloufield.github.io/GWASTutorial/)
+- Period: 2021–Present
+- Institution: The University of Tokyo
+- Department: Department of Computational Biology and Medical Sciences
 - Role: Teaching Assistant
+- Website: [https://cloufield.github.io/GWASTutorial/](https://cloufield.github.io/GWASTutorial/)
 
 ## Blog: gwaslab
 
-- 2021 - Present
-- Sharing tutorials and tips about complex trait genomics. 
-- URLs:
-    - Blog: [https://gwaslab.org/](https://gwaslab.org/) 
-    - Zhihu: [https://www.zhihu.com/people/gwaslab](https://www.zhihu.com/people/gwaslab)
-    - Wechat: GWASLab
-- More than 1 million views for ~80 posts
+- Period: 2021–2024
+- Focus: Sharing tutorials and tips about complex trait genomics
+- Blog: [https://gwaslab.org/](https://gwaslab.org/)
+- Zhihu: [https://www.zhihu.com/people/gwaslab](https://www.zhihu.com/people/gwaslab)
+- WeChat: GWASLab
+- Reach: More than 1 million views for ~80 posts

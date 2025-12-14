@@ -27,6 +27,6 @@
 ## 最新情報
 - 2025年11月：東京大学複雑形質ゲノミクス研究室にて助教としての勤務を開始しました。
 
-- 2023年11月：He, Y., Koido, M., Sutoh, Y., Shi, M., Otsuka-Yamasaki, Y., Munter, H. M., ... & Kamatani, Y. (2023). East Asian-specific and cross-ancestry genome-wide meta-analyses provide mechanistic insights into peptic ulcer disease. Nature Genetics, 1-10. が Nature Genetics に掲載されました！
+- 2023年11月：He, Y., Koido, M., Sutoh, Y., Shi, M., Otsuka-Yamasaki, Y., Munter, H. M., ... & Kamatani, Y. (2023). East Asian-specific and cross-ancestry genome-wide meta-analyses provide mechanistic insights into peptic ulcer disease. Nature Genetics, 55(12), 2129-2138. が Nature Genetics に掲載されました！
 
 - 2023年10月：東京大学複雑形質ゲノミクス研究室にて博士研究員としての勤務を開始しました。

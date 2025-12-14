@@ -3,7 +3,7 @@
 
 <div class="grid" markdown>
 
-东京大学复杂性状基因组学研究室助理教授。
+东京大学复杂性状基因组学研究室研究助理。
 <br/><br/>
 研究方向为复杂性状和疾病的遗传分析，聚焦于研究胃肠道疾病（如消化性溃疡）和脑血管疾病（如中风）的遗传结构。
 <br/><br/>
@@ -20,11 +20,11 @@
 - [Github Profile](https://github.com/Cloufield)
 
 ## 教育与工作经历
-- 2025年至今：助理教授，东京大学复杂性状基因组学研究室
+- 2025年至今：研究助理，东京大学复杂性状基因组学研究室
 - 2023年－2025年：特任研究员，东京大学复杂性状基因组学研究室
 - 2020年－2023年：博士，东京大学复杂性状基因组学研究室
 
 ## 新闻
-- 2025年11月 : 开始在东京大学复杂性状基因组学研究室担任助理教授。
-- 2023年11月 : [He, Y., Koido, M., Sutoh, Y., Shi, M., Otsuka-Yamasaki, Y., Munter, H. M., ... & Kamatani, Y. (2023). East Asian-specific and cross-ancestry genome-wide meta-analyses provide mechanistic insights into peptic ulcer disease. Nature Genetics, 1-10.](https://www.nature.com/articles/s41588-023-01569-7) 发表在 Nature Genetics!
+- 2025年11月 : 开始在东京大学复杂性状基因组学研究室担任研究助理。
+- 2023年11月 : [He, Y., Koido, M., Sutoh, Y., Shi, M., Otsuka-Yamasaki, Y., Munter, H. M., ... & Kamatani, Y. (2023). East Asian-specific and cross-ancestry genome-wide meta-analyses provide mechanistic insights into peptic ulcer disease. Nature Genetics, 55(12), 2129-2138.](https://www.nature.com/articles/s41588-023-01569-7) 发表在 Nature Genetics!
 - 2023年10月 : 开始在东京大学复杂性状基因组学研究室担任博士后研究员。

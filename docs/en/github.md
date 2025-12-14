@@ -4,7 +4,7 @@
 
 ![GWAS tutorial](https://github.com/Cloufield/GWASTutorial/assets/40289485/13609a79-2e2d-41f3-af9b-912fc47d57a9)
 
-- Description: This project aims to provide a hands-on tutorial on common analysis in Complex Trait Genomics. This tutorial is designed for the course Fundamental Exercise II provided by The Laboratory of Complex Trait Genomics at the University of Tokyo.
+- Description: This project aims to provide a hands-on tutorial on common analysis in Complex Trait Genomics. This tutorial is designed for the course Basic Seminar II provided by The Laboratory of Complex Trait Genomics at the University of Tokyo.
 
 - URL: [https://cloufield.github.io/GWASTutorial/](https://cloufield.github.io/GWASTutorial/)
 
